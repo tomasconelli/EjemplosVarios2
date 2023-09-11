@@ -58,9 +58,9 @@ public class MainActivity extends AppCompatActivity {
         prog();
         cambiaEstado();
     }
-    /*public void setSupportActionBar( Toolbar toolbar){
+    public void setSupportActionBar( Toolbar toolbar){
 
-    }*/
+    }
 
     public boolean onCreateOptionsMenu(Menu menu){
         MenuInflater inflater = getMenuInflater();
@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+// prueba
 
 
 }
